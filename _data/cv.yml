@@ -112,9 +112,11 @@
       institution: MakeMyTrip Pvt. Ltd.
       year: May 2013 - Sep 2014
       description:
-        - Created an algorithm to prioritize hotels based on the customers past browsing behaviour using information stored in cookies. This reduced the time that the customer spent in their decision-making process as the hotel choices were tailormade to their preference. 
-        - Automated the process of tracking specific hotel inventory which was not integrated into the MakeMyTrip ecosystem. This improved the customer experience and also enabling the sales team to plan their hotel contracting in an efficient manner.
-        - Spearheaded the creation of the holiday activities API to be integrated with the different lines of businesses such as flight, hotel and holidays. 
+        - title: Drove product enhancements that resulted in an increase in sales by over 27%
+          contents:
+             - Enabled the organization to sell unsold air and hotel inventory which could not be sold as a standalone product by creating a bundled product
+             - Created an algorithm that used the features of the hotels to come up with a ranking methodology so that the best and most preferred hotels would feature from over 50,000 available in the inventory
+        
     - title: Analyst
       institution: HSBC
       year: May 2010 - May 2011
