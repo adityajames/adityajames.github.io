@@ -21,10 +21,10 @@
       description:
         - Marketing
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Photography, Music.
+    - <b>Programming:</b> Python,SAS,R
     - <u>Skills:</u> Photography, Music.
 
 - title: Work Experience
