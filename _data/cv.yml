@@ -37,9 +37,13 @@
       institution: HSBC
       year: Sep 2018 - Feb 2021
       description:
-        - Led the Asia Pacific Retail Business Banking analytics practice which provides strategic partnership to the country heads across markets
-        - Conceptualized and deployed marketing strategies across the customer lifecycle to improve the quality of acquisition, deepen customer engagement and control customer attrition
-        - Deployed machine learning solutions that bettered existing baseline models by over 24%
+        - Led a team of 4 analysts delivering analytical solutions to the product and marketing teams across 4 Asia Pacific markets
+        - title: Setup the analytics practice and grew the customer base by 70% for the retail business banking vertical
+          contents:
+            -Leveraged existing internal data and profiled look-alike customers saving the business a cost of $2 per lead from third party providers
+
+
+
     - title: Manager, Decision Science
       institution: HSBC
       year: Apr 2016 - Aug 2018
@@ -86,10 +90,22 @@
   contents:
     - year: Mar-2021
       items: 
+        - Emerging leader award recognizing high potential leaders across Asia Pacific analytics centres
+    - year: Jan-2019
+      items: 
         - 1st place at the 2019  Retail Banking and Wealth Management Global Hackathon 
     - year: Jun-2018
       items: 
         - Delivering the promise award for service excellence
+    - year: Jun-2015
+      items: 
+        - Delivering the promise award for service excellence
+    - year: Jun-2015
+      items: 
+        - Cutting Edge solution award for innovation
+    - year: Mar-2015
+      items: 
+        - Star Performer award for going and beyond client expectations
 
 # - title: Academic Interests
 #   type: nested_list
