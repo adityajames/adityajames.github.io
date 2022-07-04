@@ -41,7 +41,11 @@
         - title: Setup the analytics practice and grew the customer base by 70% for the retail business banking vertical
           contents:
             Leveraged existing internal data and profiled look-alike customers saving the business a cost of $2 per lead from third party providers
-        - Developed a revenue and customer engagement-based framework for marketing campaigns which increased customer engagement by 65%
+        - title: Developed a revenue and customer engagement-based framework for marketing campaigns which increased customer engagement by 65%
+          contents:
+            Framework used customer firmographic and performance data to segment customers
+            Overlayed credit bureau data with internal data to estimate true value of customer
+            Leads were deployed to cross-sell products to customers across various stages of the customer life cycle
      
 
 
