@@ -64,16 +64,36 @@
         - Role comprised of driving analytical solutions and mentoring juniors
         - title: Increased the debit card usage by 23% for the Singapore market by identifying high propensity customers
           contents:
-            - Drivers used to measure propensity were balance and transaction volatility
-            - Being an excel based tool the drivers were customizable according to the changing policy in the market
+            - Used decision tree algorithm to carve distinct segments of customers who are most likely to turn active
+            - Profiled customers helping the market develop a personalized marketing script for communication
+            - Developed an automated and exhaustive dashboard to track month on month performance
+        - title: Created a framework based on customer life-stage by text mining and behaviour sequencing for recommendation of retail banking products
+          contents:
+            - Mined demographic and credit card transaction data to predict customer life-stage
+            - Relationship managers used inputs from the framework to provide customers with relevant product recommendations
+        - title: Deployed a Random Forest based loans propensity model in Malaysia using SAS which obtained an incremental revenue of ~$700K 
+          contents:
+            - Improved the existing baseline model by 24%
+            - Created an automated process to feed frontline staff with high propensity lending leads on a monthly basis
+        - title: Developed a Random forest based propensity model to identify high propensity instalment payment plan customers 
+          contents:
+            - Achieved a lift of 70% in the top three deciles
+            - Used text mining to identify item description which was used in designing a customer level marketing script
+        - title: Reduced operating cost for the Hong Kong business by identifying 19% ATMs for closure/relocation by carrying out a demand/supply analysis 
+          contents:
+            - Suggested increasing ATM machines at 7% locations to ease customer queuing
+            - Recommended removal/relocation of ATMs at 12% locations to save rental cost for the bank        
 
         
     - title: Assistant Manager, Decision Sciences
       institution: HSBC
       year: Sep 2014 - Mar 2016
       description:
-        - Worked on several analytical proof of concept projects that led to the formation of the liability analytics team supporting multiple Asia Pacific markets
-        - Created an automated process to source stitch digital behavior with transaction behavior resulting in 360-degree view of the customer   
+        - title: Created a digital activation strategy for Singapore which resulted in 88% digital engagement 
+          contents:
+            - Segmented customers based on the penetration of internet banking and drafted marketing script
+            - Developed a comprehensive dashboard to track the performance of the digital activation campaign
+    
     - title: Product Manager, Online Products
       institution: MakeMyTrip Pvt. Ltd.
       year: May 2013 - Sep 2014
