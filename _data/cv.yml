@@ -54,16 +54,18 @@
           contents:
             - Drivers used to measure propensity were balance and transaction volatility
             - Being an excel based tool the drivers were customizable according to the changing policy in the market
-     
-
-
+    
 
     - title: Manager, Decision Science
       institution: HSBC
       year: Apr 2016 - Aug 2018
       description:
-        - Setup the customer lifecycle management process for a new business resulting in first mover advantage in the Asia Pacific market
-        - Developed a prototyping solution for product managers that enabled the simulation of expected revenue prior to product launch
+      - title: Created an excel based lending propensity tool resulting in growth of lending book by $6M
+          contents:
+            - Drivers used to measure propensity were balance and transaction volatility
+            - Being an excel based tool the drivers were customizable according to the changing policy in the market
+
+        
     - title: Assistant Manager, Decision Science
       institution: HSBC
       year: Sep 2014 - Mar 2016
