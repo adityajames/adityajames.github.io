@@ -25,7 +25,11 @@
   type: list
   contents:
     - <b>Programming:</b> Python,SAS,R
-    - <u>Skills:</u> Photography, Music.
+    - <b>Database Management:</b> SQL
+    - <b>Analysis and Design:</b> Machine Learning, Statistical analysis, Data mining & analysis 
+    - <b>Digital Analytics:</b> Adobe Experience Manager  
+    - <b>Project Management:</b> JIRA, Confluence  
+    
 
 - title: Work Experience
   type: time_table
