@@ -116,7 +116,13 @@
           contents:
              - Enabled the organization to sell unsold air and hotel inventory which could not be sold as a standalone product by creating a bundled product
              - Created an algorithm that used the features of the hotels to come up with a ranking methodology so that the best and most preferred hotels would feature from over 50,000 available in the inventory
+        - title: Migrated the manual process of tracking hotel inventory contracted by international destination managers to a system-based process
+          contents:
+             - Resulted in a reduction of losses caused due to multi-booking of hotels by 35%
+             - Process ensured scaling up of the business could be handled with minimal loss
         
+
+
     - title: Analyst
       institution: HSBC
       year: May 2010 - May 2011
