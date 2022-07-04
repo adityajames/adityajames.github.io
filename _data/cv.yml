@@ -13,7 +13,7 @@
       description:
         - title: Courses
           contents:
-            - Applied Algorithms, Applied Machine Learning, Elements of Artificial Intelligence
+            - Applied Algorithms, Applied Machine Learning, Elements of Artificial Intelligence, Data Mining, Introduction to Statistics, Information Visualization
         
     - title: Master of Business Administration
       institution: Faculty of Management Studies, New Delhi, India
