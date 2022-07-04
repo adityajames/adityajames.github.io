@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
@@ -18,8 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Stay hungry stay curious, hungry to continuously improve and curious to learn new skills. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In my 9+ years of professional experience I have worked across retail banking analytics and web product management. As part of the retail banking analytics team I’ve worked on a range of projects in the areas of liabilities, assets, digital and customer experience analytics. I was awarded on multiple occasions for innovation and project delivery under tight timelines, a few of them being Star performer award (Q1,’15), Delivering the promise (Q2,’15), Cutting edge solution award (Q2,’15).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a web product manager I was responsible for online holidays product for Makemytrip India private limited. In a span of 8 months I was able to successfully integrate Hotel travel API to open up $76B opportunity in the international holidays segment. I spearheaded the integration of the Viator activities API into the Makemytrip ecosystem. I was awarded the rising star award (Q2,’14) for my outstanding performance.
+
+I’m very passionate about photography and worked as part of the core team that created the Nike ‘Make Every Yard Count’ ad film. The film won 7 awards at the 67th Cannes film festival ( 4 Silver and 3 bronze lions ).
+
+If you have a challenging business problem then I want to help you solve it.
