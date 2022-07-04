@@ -63,9 +63,9 @@
       description: 
         - Role comprised of driving analytical solutions and mentoring juniors
         - title: Increased the debit card usage by 23% for the Singapore market by identifying high propensity customers
-            contents:
-              - Drivers used to measure propensity were balance and transaction volatility
-              - Being an excel based tool the drivers were customizable according to the changing policy in the market
+          contents:
+            - Drivers used to measure propensity were balance and transaction volatility
+            - Being an excel based tool the drivers were customizable according to the changing policy in the market
 
         
     - title: Assistant Manager, Decision Sciences
