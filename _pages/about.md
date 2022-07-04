@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/adityajames/'>Linkedin</a>. MS Data Science @ IUB, MBA @FMS,Delhi.
-
+subtitle:  MS Data Science @ IUB, MBA @FMS,Delhi.
+#<a href='https://www.linkedin.com/in/adityajames/'>Linkedin</a>.
 profile:
   align: left
   image: prof_pic.jpg
@@ -13,7 +13,7 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
