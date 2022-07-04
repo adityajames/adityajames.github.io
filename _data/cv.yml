@@ -60,10 +60,10 @@
       institution: HSBC
       year: Apr 2016 - Aug 2018
       description:
-      - title: Created an excel based lending propensity tool resulting in growth of lending book by $6M
-          contents:
-            - Drivers used to measure propensity were balance and transaction volatility
-            - Being an excel based tool the drivers were customizable according to the changing policy in the market
+        - title: Created an excel based lending propensity tool resulting in growth of lending book by $6M
+            contents:
+              - Drivers used to measure propensity were balance and transaction volatility
+              - Being an excel based tool the drivers were customizable according to the changing policy in the market
 
         
     - title: Assistant Manager, Decision Science
