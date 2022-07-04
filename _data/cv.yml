@@ -46,6 +46,14 @@
             - Framework used customer firmographic and performance data to segment customers
             - Overlayed credit bureau data with internal data to estimate true value of customer
             - Leads were deployed to cross-sell products to customers across various stages of the customer life cycle
+        - title: Implemented the K-prototype clustering algorithm in Python for a Foreign currency campaign
+          contents:
+            - High liquidity segment showed an increase in product uptake by 12%
+            - The analysis helped the product team identify fee income opportunity for certain currency combinations
+        - title: Created an excel based lending propensity tool resulting in growth of lending book by $6M
+          contents:
+            - Drivers used to measure propensity were balance and transaction volatility
+            - Being an excel based tool the drivers were customizable according to the changing policy in the market
      
 
 
