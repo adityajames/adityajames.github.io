@@ -26,8 +26,13 @@
   contents:
     - title: Lead AVP
       institution: HSBC 
-      month: Jul
-      year: Jul 2021 - Jul 2021
+      year: Jul 2021
+    - title: AVP
+      institution: HSBC
+      year: Mar 2021 - Jun 2021
+      description:
+        - Managed a 6 member team consisting of managers and analysts driving strategic initiatives
+        - Led the digital transformation for the Commercial Banking business
     - title: Professor of Theoretical Physics
       institution: Institute for Advanced Study, Princeton University
       year: 1933 - 1955
