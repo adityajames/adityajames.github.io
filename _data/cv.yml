@@ -10,9 +10,9 @@
     - title: MS in Data Science
       institution: Indiana University, Bloomington, United States
       year: 2021 - 2023
-      title: Courses
-      contents:
-        - Applied Algorithms, Applied Machine Learning, Elements of Artificial Intelligence
+        - title: Courses
+          contents:
+            - Applied Algorithms, Applied Machine Learning, Elements of Artificial Intelligence
         
     - title: Master of Business Administration
       institution: Faculty of Management Studies, New Delhi, India
