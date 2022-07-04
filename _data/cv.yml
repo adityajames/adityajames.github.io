@@ -20,6 +20,12 @@
       year: 2011 - 2013
       description:
         - Marketing
+        
+  - title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Photography, Music.
+    - <u>Skills:</u> Photography, Music.
 
 - title: Work Experience
   type: time_table
@@ -179,8 +185,3 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Photography, Music.
-    - <u>Skills:</u> Photography, Music.
