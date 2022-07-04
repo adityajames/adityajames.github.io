@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  MS Data Science @ IUB, MBA @FMS,Delhi.
+subtitle:  MS Data Science @ IUB, MBA @ FMS,Delhi.
 #<a href='https://www.linkedin.com/in/adityajames/'>Linkedin</a>.
 profile:
   align: left
