@@ -84,13 +84,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: Mar-2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - 1st place at the 2019  Retail Banking and Wealth Management Global Hackathon 
+    - year: Jun-2018
       items: 
-        - Max Planck Medal
+        - Delivering the promise award for service excellence
 
 # - title: Academic Interests
 #   type: nested_list
