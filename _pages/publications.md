@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Articles
+title: articles
 description: 
 years: [2016,2014,2013]
 nav: true
