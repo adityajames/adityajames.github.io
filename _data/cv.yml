@@ -33,6 +33,7 @@
       description:
         - Managed a 6 member team consisting of managers and analysts driving strategic initiatives
         - Led the digital transformation for the Commercial Banking business
+
     - title: Lead Manager
       institution: HSBC
       year: Sep 2018 - Feb 2021
@@ -59,7 +60,8 @@
     - title: Manager, Decision Science
       institution: HSBC
       year: Apr 2016 - Aug 2018
-      description: Role comprised of driving analytical solutions and mentoring juniors
+      description: 
+        - Role comprised of driving analytical solutions and mentoring juniors
         - title: Increased the debit card usage by 23% for the Singapore market by identifying high propensity customers
             contents:
               - Drivers used to measure propensity were balance and transaction volatility
