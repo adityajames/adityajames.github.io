@@ -9,9 +9,10 @@
   contents:
     - title: MS in Data Science
       institution: Indiana University, Bloomington, United States
-      grade: 4.0 / 4.0 
       year: 2021 - 2023
       description:
+        - title: Grade
+          contents: 4.0 / 4.0
         - title: Courses
           contents:
             - Applied Algorithms, Applied Machine Learning, Elements of Artificial Intelligence, Data Mining, Introduction to Statistics, Information Visualization
