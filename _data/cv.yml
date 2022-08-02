@@ -33,9 +33,11 @@
   type: list
   contents:
     - <b>Programming Languages:</b> Python,SQL,SAS,R
-    - <b>Analysis and Design:</b> Machine Learning, Statistical analysis, Data mining & analysis 
+    - <b>Analysis and Design:</b> Machine Learning, Statistical analysis, Data mining & analysis, Data Visualization, A/B testing  
+    - <b>Tools and framework:</b> JSON, scikit-learn, Pandas,Keras, Tensorflow, Jupyter Notebook, Numpy 
     - <b>Digital Analytics:</b> Adobe Experience Manager  
-    - <b>Project Management:</b> JIRA, Confluence  
+    - <b>Project Management:</b> JIRA, Confluence, GitHub
+    - <b>Visualization:</b> PowerBI, Tableau, Matplotlib, Paraview, Streamlit, Plotly Dash
     
 
 - title: Work Experience
