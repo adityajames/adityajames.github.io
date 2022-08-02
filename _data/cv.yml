@@ -20,12 +20,17 @@
       year: 2011 - 2013
       description:
         - Marketing
+    
+    - title: Bachelor of Technology
+      institution: National Institute of Technology Karnataka, Surathkal, India
+      year: 2005 - 2009
+      description:
+        - Metallurgical and Materials Engineering
 
 - title: Skills
   type: list
   contents:
-    - <b>Programming:</b> Python,SAS,R
-    - <b>Database Management:</b> SQL
+    - <b>Programming Languages:</b> Python,SQL,SAS,R
     - <b>Analysis and Design:</b> Machine Learning, Statistical analysis, Data mining & analysis 
     - <b>Digital Analytics:</b> Adobe Experience Manager  
     - <b>Project Management:</b> JIRA, Confluence  
